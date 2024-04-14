@@ -2,7 +2,7 @@
 
 PlantVR is a VR framework in which the user can view the crop growth trajectory of a crop in VR. Its development requires the acquisition of the 3D assets of a real crop daily. Once they are attained, the assets are aligned via ICP.
 
-Project Link:- https://dl.acm.org/doi/10.1145/3595916.3626368
+Project Link:- https://dl.acm.org/doi/10.1145/3595916.3626368.
 Supplement Material on the paper link contains the framework.
 
 The code was made in Unity Editor 2021.3.14f1.
