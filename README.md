@@ -12,3 +12,7 @@ So allow it, it will download the required version, once the project is opened.
 
 Just open the project and press play with the VR Setup ready.
 The VR Device used was HTC Vive with NVidia GPU.
+
+
+https://github.com/that-kvs/PlantVR/assets/165871054/9447e303-288f-4989-9ff5-ffbef4831740
+
